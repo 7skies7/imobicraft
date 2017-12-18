@@ -1,0 +1,47 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-03 10:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: bootstrap/pluginClass.php:75
+msgid "Portfolio"
+msgstr ""
+
+#: bootstrap/pluginClass.php:86
+msgid "Portfolio Tag"
+msgstr ""
+
+#: bootstrap/pluginClass.php:93
+msgid "Portfolio Category"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ark Theme Core Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shortcodes & Custom Post Types for Ark Theme"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://freshface.net"
+msgstr ""
+
+#. Author of the plugin
+msgid "FRESHFACE"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://fresh face.net"
+msgstr ""

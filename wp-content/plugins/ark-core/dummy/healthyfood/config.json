@@ -1,0 +1,17 @@
+{
+  "name": "Healthy Food",
+  "folder":"healthyfood",
+  "image": "preview.jpg",
+  "demo-file": "demo.xml",
+  "description": "Healthy food shop, complete shop, you need to have WooCommerce active<br><br><em>Installation time:</em> 3 Minute",
+  "front_page_id": 2,
+  "posts_page_id": 186,
+  "nav_menu": 6,
+  "rules": {
+    "0": "ffImportRulePosts"
+  },
+  "steps": {
+    "0": "ffImportStepChangeAttachments",
+    "1": "ffImportStepImportSystemData"
+  }
+}

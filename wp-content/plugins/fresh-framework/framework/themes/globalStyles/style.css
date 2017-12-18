@@ -1,0 +1,20 @@
+
+.ff-gs-item {
+    border: 1px solid red;
+}
+
+.ff-global-style-select {
+    display: none !important;
+}
+
+.ffb-modal__tab-header[data-tab-header-name="Styles"] {
+    display: none !important;
+}
+
+.ffb-modal__tab-header[data-tab-header-name="Box Model"] {
+    margin-left:16px !important;
+}
+
+.ffb-modal__button-image_preview {
+    display: none !important;
+}

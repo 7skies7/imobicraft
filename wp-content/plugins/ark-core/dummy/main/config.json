@@ -1,0 +1,16 @@
+{
+  "name": "Main",
+  "folder":"main",
+  "image": "preview.jpg",
+  "demo-file": "demo.xml",
+  "description": "This is our largest demo. A classic multi-purpose design that showcases all elements. Contains over 260 pages. <br><br><em>Installation time:</em> 20 minutes",
+  "front_page_id": 1776,
+  "rules": {
+    "0": "ffImportRulePosts"
+  },
+  "steps": {
+    "0": "ffImportStepChangeAttachments",
+    "1": "ffImportStepChangeContentBlocks",
+    "2": "ffImportStepDeleteContentBlocks"
+  }
+}

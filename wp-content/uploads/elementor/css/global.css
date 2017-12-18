@@ -1,0 +1,232 @@
+.elementor-widget-heading .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-image .widget-image-caption {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-text-editor {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: #6ec1e4;
+}
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: #6ec1e4;
+    border-color: #6ec1e4;
+}
+.elementor-widget-button a.elementor-button, .elementor-widget-button .elementor-button {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 500;
+    background-color: #61ce70;
+}
+.elementor-widget-divider .elementor-divider-separator {
+    border-top-color: #7a7a7a;
+}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {
+    color: #6ec1e4;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-icon.elementor-view-stacked .elementor-icon {
+    background-color: #6ec1e4;
+}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {
+    color: #6ec1e4;
+    border-color: #6ec1e4;
+}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+    color: #e62b45;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-image-gallery .gallery-item .gallery-caption {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 500;
+}
+.elementor-widget-image-carousel .elementor-image-carousel-caption {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 500;
+}
+.elementor-widget-icon-list .elementor-icon-list-item: not(: last-child):after {
+    border-top-color: #7a7a7a;
+}
+.elementor-widget-icon-list .elementor-icon-list-icon i {
+    color: #6ec1e4;
+}
+.elementor-widget-icon-list .elementor-icon-list-text {
+    color: #54595f;
+}
+.elementor-widget-icon-list .elementor-icon-list-item {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-counter .elementor-counter-number-wrapper {
+    color: #6ec1e4;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-counter .elementor-counter-title {
+    color: #54595f;
+    font-family: "Roboto Slab", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar {
+    background-color: #6ec1e4;
+}
+.elementor-widget-progress .elementor-title {
+    color: #6ec1e4;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-testimonial .elementor-testimonial-content {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-testimonial .elementor-testimonial-name {
+    color: #6ec1e4;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-testimonial .elementor-testimonial-job {
+    color: #54595f;
+    font-family: "Roboto Slab", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-tabs .elementor-tab-title {
+    color: #6ec1e4;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-tabs .elementor-tab-title.elementor-active {
+    color: #61ce70;
+}
+.elementor-widget-tabs .elementor-tab-content {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title {
+    color: #6ec1e4;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title.elementor-active {
+    color: #61ce70;
+}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-content {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title {
+    color: #6ec1e4;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title.elementor-active {
+    color: #61ce70;
+}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-content {
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-alert .elementor-alert-title {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-widget-alert .elementor-alert-description {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+.elementor-widget-itl-contact-form .eael-contact-form-container input.wpcf7-submit {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+.elementor-element .elementor-icon{
+    color: #bf1e2d!important;
+    border-color: #bf1e2d!important;
+}
+.elementor-icon-box-title:hover{
+	color: #e62b45!important;
+}
+.elementor-divider-separator{
+	border-top-color:#e62b45!important;
+}
+.elementor-279 .elementor-element.elementor-element-9hwk8w9 .elementor-heading-title,.elementor-279 .elementor-element.elementor-element-mhlrw4y .elementor-heading-title,.elementor-279 .elementor-element.elementor-element-yrdf88y .elementor-heading-title,.elementor-279 .elementor-element.elementor-element-atbscvg .elementor-heading-title{
+	color: #621734!important;
+}
+.elementor-heading-title span {
+    color: #e62b45!important;
+}
+.elementor-icon-list-icon i{
+	color: #e62b45!important;
+}
+.elementor-button{
+	background-color: #e62b45!important;
+}
+.itl-portfolio-nav ul li.active {
+    background: #e62b45!important;
+}
+.itl-portfolio-nav ul li {
+    background: #621734;
+}
+.itl-portfolio .itl-portfolio-item .itl-portfolio-content:hover {
+    background: #e62b45;
+}
+.navbar-fixed-top .navbar.navbar-default{
+	overflow: hidden;
+}
+.navbar.navbar-default .navbar-nav > li > a {
+    color: #621734;
+}
+.elementor-279 .elementor-element.elementor-element-lrtpube .elementor-heading-title,.elementor-279 .elementor-element.elementor-element-d1wstwl .elementor-heading-title {
+    color: #621734!important;
+}
+.itl-post-grid .itl-post-grid-item .itl-post-item .itl-post-grid-thumb .date-wrap {
+    background: #e62b45;
+}
+.itl-post-grid .itl-post-grid-item .itl-post-item .itl-post-grid-readmore a {
+    background: #e62b45;
+}
+.itl-post-grid .itl-post-grid-item .itl-post-item .itl-post-grid-content .itl-post-grid-meta {
+	color: #9f1f63;
+}
+.itl-team-wrap .itl-team-bottom-content {
+    background: #e62b45;
+}
+.itl-team-wrap .itl-team-bottom-content:hover {
+    background: #621734;
+}
+.clients-carousel .owl-dots .owl-dot.active span, .testimonial-carousel .owl-dots .owl-dot.active span {
+    background: #e62b45;
+}
+.footer-social-widget li a i:hover {
+    background: #e62b45;
+}
+.footer .widget .textwidget p .fa{
+	color: #e62b45;
+}
+.back-to-top:hover{
+	background: #621734;
+}
+.itl-team-wrap .itl-team-img-wrap .itl-team-img-overley .itl-team-overley-social ul li a i:hover
+{
+	background: #e62b45;
+}

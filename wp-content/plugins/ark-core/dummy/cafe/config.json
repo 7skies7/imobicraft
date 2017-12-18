@@ -1,0 +1,16 @@
+{
+	"name": "Cafe",
+	"folder":"cafe",
+	"image": "preview.jpg",
+	"demo-file": "demo.xml",
+	"description": "Cafe Demo, contains 5 pages<br><br><em>Installation time:</em> 1 Minute",
+	"front_page_id": 22,
+	"nav_menu": 2,
+	"rules": {
+		"0": "ffImportRulePosts"
+	},
+	"steps": {
+		"0": "ffImportStepChangeAttachments",
+		"1": "ffImportStepImportSystemData"
+	}
+}

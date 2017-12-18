@@ -1,0 +1,23 @@
+
+
+.ff-sitepref-sidebar {
+	width: 20%;
+	float:left;
+}
+
+.ff-sitepref-content {
+	width: 80%;
+	float:right;
+}
+
+.ff-one-view{
+	display:block;
+}
+
+.ff-edit-views-content{ display:none;}
+
+.ff-one-view-default {
+	/*color:#ffffff;*/
+}
+
+/*.ff-collection-content-area { display: block; }*/ 

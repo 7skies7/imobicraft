@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="wp-toolbar"  lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>freshGrid</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel='stylesheet' href='extern/animate.css/animate.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='freshGrid.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='test.css' type='text/css' media='all' />
+	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
+</head>
+<body>
+
+<span class="spantest" data-fg-bg='
+[
+	{
+		"type":"color",
+		"opacity":"1",
+		"color":"#0088cc"
+	}
+]'>sdfdsfdsfds</span>
+
+<!-- <div class="test">
+	<a href="aaa"><span>adasdsadsd</span></a>
+</div> -->
+
+<h1>Background - Hover Only Layers + Hide them on small desktop (MD)</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"color",
+		"opacity":"0.5",
+		"color":"#0088cc",
+		"hidden_md":"yes"
+	},{
+		"type":"image",
+		"opacity":"0.5",
+		"hover_only":"yes",
+		"url":"parallax2.jpg",
+		"size":"cover",
+		"repeat":"no-repeat",
+		"attachment":"scroll",
+		"position":"center center",
+		"hidden_md":"yes"
+	},{
+		"type":"color",
+		"opacity":"0.5",
+		"hover_only":"yes",
+		"color":"green",
+		"hidden_md":"yes"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Image - Cover/No-Repeat/Scroll</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"image",
+		"opacity":"0.5",
+		"url":"parallax2.jpg",
+		"size":"cover",
+		"repeat":"no-repeat",
+		"attachment":"scroll",
+		"position":"center center"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Image - Cover/No-Repeat/Fixed</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"image",
+		"opacity":"0.5",
+		"url":"parallax2.jpg",
+		"size":"cover",
+		"repeat":"no-repeat",
+		"attachment":"fixed",
+		"position":"center center"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Image - Auto/Repeat/Scroll</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"image",
+		"opacity":"0.5",
+		"url":"repeat.jpg",
+		"size":"auto",
+		"repeat":"repeat",
+		"attachment":"scroll",
+		"position":"center center"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Image - Auto/Repeat/Fixed</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"image",
+		"opacity":"0.5",
+		"url":"repeat.jpg",
+		"size":"auto",
+		"repeat":"repeat",
+		"attachment":"fixed",
+		"position":"center center"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Video - HTML5</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6" data-fg-bg='
+[
+	{
+		"type":"video",
+		"opacity":"1",
+		"variant":"html",
+		"url":"girls.mp4",
+		"width":"16",
+		"height":"9",
+		"shield":"on"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Video - YouTube</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6" data-fg-bg='
+[
+	{
+		"type":"video",
+		"opacity":"1",
+		"variant":"youtube",
+		"url":"https://www.youtube.com/watch?v=Hy5sohODeTc",
+		"width":"16",
+		"height":"9",
+		"shield":"on"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Slant</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6" data-fg-bg='
+[
+	{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"yellow",
+		"edge":"top",
+		"direction":"up",
+		"angle":"15"
+	},{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"red",
+		"edge":"top",
+		"direction":"down",
+		"angle":"15"
+	},{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"blue",
+		"edge":"right",
+		"direction":"up",
+		"angle":"15"
+	},{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"orange",
+		"edge":"right",
+		"direction":"down",
+		"angle":"15"
+	},{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"black",
+		"edge":"bottom",
+		"direction":"up",
+		"angle":"15"
+	},{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"white",
+		"edge":"bottom",
+		"direction":"down",
+		"angle":"15"
+	},{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"grey",
+		"edge":"left",
+		"direction":"up",
+		"angle":"15"
+	},{
+		"type":"slant",
+		"opacity":"0.5",
+		"color":"pink",
+		"edge":"left",
+		"direction":"down",
+		"angle":"15"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Parallax - Cover - Speed 0</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"0"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Parallax - Cover - Speed 50</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Parallax - Cover - Speed 100</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"100"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Background - Parallax - Auto</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"20"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"20",
+		"offset_h":"0",
+		"offset_v":"0"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"20",
+		"offset_h":"100",
+		"offset_v":"100"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"20",
+		"offset_h":"50",
+		"offset_v":"50"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"20",
+		"offset_h":"100",
+		"offset_v":"100"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"0",
+		"offset_h":"30",
+		"offset_v":"30"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"0",
+		"offset_h":"70",
+		"offset_v":"70"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"20"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"0",
+		"offset_h":"50",
+		"offset_v":"50"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"20",
+		"offset_h":"0",
+		"offset_v":"0"
+	},
+	{
+		"type":"parallax",
+		"opacity":"0.5",
+		"url":"parallax4.jpg",
+		"width":"350",
+		"height":"350",
+		"size":"auto",
+		"speed":"20",
+		"offset_h":"100",
+		"offset_v":"100"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Match Columns Height + Parallax - Cover - Speed 50</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row fg-row-match-cols">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Match Columns Height + Vertical Centering + Parallax - Cover - Speed 50</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row fg-row-match-cols">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Force Min Height 25vh on BP-4 (50vh on BP-1) on 1. column + Match Columns Height + Vertical Centering + Parallax - Cover - Speed 50</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row fg-row-match-cols">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]' data-fg-force-min-height='
+{
+	"breakpoint_1":{
+		"height":"100",
+		"offset":"0"
+	},
+	"breakpoint_4":{
+		"height":"25",
+		"offset":"0"
+	}
+}'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="fg-vcenter-wrapper">
+					<div class="fg-vcenter">
+						<div class="stretch"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>Vertical Centering of only one element - requires MatchCols to work - was buggy because it would not change height when STRETCH was triggered</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row fg-row-match-cols">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"parallax",
+		"opacity":"1",
+		"url":"parallax6.jpg",
+		"width":"500",
+		"height":"663",
+		"size":"cover",
+		"speed":"50"
+	}
+]'>
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<h1>WOW Animations - Image - Cover/No-Repeat/Scroll</h1>
+
+<section class="fg-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" data-fg-bg='
+[
+	{
+		"type":"color",
+		"opacity":"1",
+		"color":"green"
+	}
+]' data-fg-wow="slideInDown" data-wow-duration="3s">
+				<div class="stretch"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+
+
+<script type='text/javascript' src='extern/matchHeight.js/jquery.matchHeight.min.js'></script>
+<script type='text/javascript' src='extern/wow.js/wow.min.js'></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script type='text/javascript' src='extern/isOnScreen.js/jquery.isOnScreen.min.js'></script>
+
+
+<script type='text/javascript' src='http://localhost/framework/ark/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://localhost/framework/ark/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='jquery.freshGrid.js'></script>
+<script type='text/javascript' src='test.js'></script>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+
+.ff-updater-wrapper{
+	padding-top:50px;
+}
+
+.ff-updater-wrapper h2{
+	font-size:35px;
+}
+
+.ff-updater-wrapper .update-info-line{
+	font-size:18px;
+}
+
+.ff-updater-wrapper .ff-update-message {
+	font-size:18px;
+	color:green;
+}
+
+.ff-updater-wrapper .ff-update-message-error {
+	color:red;
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.0.1" date="2014-06-24">
+       <change>Error forgotten use tracy statements</change>
+    </release>
+    <release version="1.0.0" date="2014-05-26">
+        <change>Initial release</change>
+    </release>
+</changelog>

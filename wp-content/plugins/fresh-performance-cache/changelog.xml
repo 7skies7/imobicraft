@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.2.0" date="2017-03-09">
+        <change>Added activation button</change>
+    </release>
+    <release version="1.1.0" date="2016-12-21">
+        <change>Improved lot of features</change>
+    </release>
+    <release version="1.0.7" date="2014-09-26">
+        <change>Added filters to exclude files from minification</change>
+    </release>
+    <release version="1.0.6" date="2014-06-24">
+        <change>Error forgotten use tracy statements</change>
+    </release>
+    <release version="1.0.5" date="2014-06-09">
+        <change>Bugfix in Framework - removing use statement</change>
+    </release>
+    <release version="1.0.4" date="2014-06-06">
+        <change>Bugfix in Framework for Performance Cache minificator - the problem appears again, fixed - fixed again</change>
+    </release>
+    <release version="1.0.3" date="2014-06-06">
+        <change>Bugfix in Framework for Performance Cache minificator - the problem appears again, fixed</change>
+    </release>
+    <release version="1.0.2" date="2014-06-04">
+        <change>Bugfix in Framework for Performance Cache minificator</change>
+    </release>
+    <release version="1.0.1" date="2014-03-04">
+        <change>Changed priority of hooks</change>
+    </release>
+    <release version="1.0.0" date="2014-02-28">
+        <change>Initial release</change>
+    </release>
+</changelog>

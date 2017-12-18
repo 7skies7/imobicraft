@@ -1,0 +1,1816 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Hanson Core\n"
+"POT-Creation-Date: 2017-11-13 11:56+0600\n"
+"PO-Revision-Date: 2017-11-13 11:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: hanson-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/cpt/project-cpt.php:5
+msgctxt "post type general name"
+msgid "Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:6
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:7
+msgctxt "admin menu"
+msgid "Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:8
+msgctxt "add new on admin bar"
+msgid "Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:9
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:10
+msgid "Add New Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:11
+msgid "New Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:12
+msgid "Edit Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:13
+msgid "View Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:14
+msgid "All Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:15
+msgid "Search Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:16
+msgid "Parent Project:"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:17
+msgid "No project found."
+msgstr ""
+
+#: inc/cpt/project-cpt.php:18
+msgid "No project found in Trash."
+msgstr ""
+
+#: inc/cpt/project-cpt.php:23
+msgid "Description."
+msgstr ""
+
+#: inc/cpt/project-cpt.php:45
+msgctxt "taxonomy general name"
+msgid "Project Types"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:46
+msgctxt "taxonomy singular name"
+msgid "Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:47
+msgid "Search Project Types"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:48
+msgid "All Project Types"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:49
+msgid "Parent Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:50
+msgid "Parent Project Type:"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:51
+msgid "Edit Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:52
+msgid "Update Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:53
+msgid "Add New Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:54
+msgid "New Project Type Name"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:55
+msgid "Project Type"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:15
+msgid "ITL - Divider"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:30
+msgid "Divider"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:37
+msgid "Style"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:40
+msgid "Solid"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:41
+msgid "Double"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:42
+msgid "Dotted"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:43
+msgid "Dashed"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:55
+msgid "Weight"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:75 inc/elementor-widgets/icon-box.php:563
+#: inc/elementor-widgets/icon-box.php:597
+msgid "Color"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:91 inc/itl-widgets/testimonial.php:179
+msgid "Width"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:120 inc/elementor-widgets/heading.php:97
+#: inc/elementor-widgets/icon-box.php:490 inc/itl-widgets/pricing-table.php:176
+#: inc/itl-widgets/pricing-table.php:182 inc/itl-widgets/testimonial.php:243
+msgid "Alignment"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:124 inc/elementor-widgets/heading.php:101
+#: inc/elementor-widgets/icon-box.php:250
+#: inc/elementor-widgets/icon-box.php:494 inc/itl-widgets/contact-form-7.php:84
+#: inc/itl-widgets/contact-form-7.php:471 inc/itl-widgets/pricing-table.php:187
+#: inc/itl-widgets/testimonial.php:247
+msgid "Left"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:128 inc/elementor-widgets/heading.php:105
+#: inc/elementor-widgets/icon-box.php:498 inc/itl-widgets/contact-form-7.php:88
+#: inc/itl-widgets/contact-form-7.php:475 inc/itl-widgets/pricing-table.php:191
+#: inc/itl-widgets/testimonial.php:251
+msgid "Center"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:132 inc/elementor-widgets/heading.php:109
+#: inc/elementor-widgets/icon-box.php:258
+#: inc/elementor-widgets/icon-box.php:502 inc/itl-widgets/contact-form-7.php:92
+#: inc/itl-widgets/contact-form-7.php:479 inc/itl-widgets/pricing-table.php:195
+#: inc/itl-widgets/testimonial.php:255
+msgid "Right"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:146
+msgid "Gap"
+msgstr ""
+
+#: inc/elementor-widgets/divider.php:166 inc/elementor-widgets/heading.php:127
+#: inc/elementor-widgets/icon-box.php:37 inc/itl-widgets/clients.php:71
+msgid "View"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:15
+msgid "ITL - Heading"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:30 inc/elementor-widgets/heading.php:37
+#: inc/elementor-widgets/heading.php:138 inc/elementor-widgets/icon-box.php:534
+#: inc/itl-widgets/portfolio.php:104 inc/itl-widgets/post-grid.php:105
+msgid "Title"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:39
+msgid "Enter your title"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:40
+msgid "This is heading element"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:47 inc/itl-widgets/pricing-table.php:163
+msgid "Link"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:60 inc/elementor-widgets/icon-box.php:351
+#: inc/itl-widgets/pie-chart.php:79
+msgid "Size"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:64 inc/elementor-widgets/icon-box.php:40
+#: inc/itl-widgets/contact-form-7.php:80 inc/itl-widgets/contact-form-7.php:467
+msgid "Default"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:65
+msgid "Small"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:66
+msgid "Medium"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:67
+msgid "Large"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:68
+msgid "XL"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:69
+msgid "XXL"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:77
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:80 inc/elementor-widgets/icon-box.php:273
+#: inc/itl-widgets/portfolio.php:400 inc/itl-widgets/portfolio.php:540
+#: inc/itl-widgets/portfolio.php:626 inc/itl-widgets/post-grid.php:392
+#: inc/itl-widgets/post-grid.php:532 inc/itl-widgets/post-grid.php:618
+msgid "H1"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:81 inc/elementor-widgets/icon-box.php:274
+#: inc/itl-widgets/portfolio.php:401 inc/itl-widgets/portfolio.php:541
+#: inc/itl-widgets/portfolio.php:627 inc/itl-widgets/post-grid.php:393
+#: inc/itl-widgets/post-grid.php:533 inc/itl-widgets/post-grid.php:619
+msgid "H2"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:82 inc/elementor-widgets/icon-box.php:275
+#: inc/itl-widgets/portfolio.php:402 inc/itl-widgets/portfolio.php:542
+#: inc/itl-widgets/portfolio.php:628 inc/itl-widgets/post-grid.php:394
+#: inc/itl-widgets/post-grid.php:534 inc/itl-widgets/post-grid.php:620
+msgid "H3"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:83 inc/elementor-widgets/icon-box.php:276
+#: inc/itl-widgets/portfolio.php:403 inc/itl-widgets/portfolio.php:543
+#: inc/itl-widgets/portfolio.php:629 inc/itl-widgets/post-grid.php:395
+#: inc/itl-widgets/post-grid.php:535 inc/itl-widgets/post-grid.php:621
+msgid "H4"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:84 inc/elementor-widgets/icon-box.php:277
+#: inc/itl-widgets/portfolio.php:404 inc/itl-widgets/portfolio.php:544
+#: inc/itl-widgets/portfolio.php:630 inc/itl-widgets/post-grid.php:396
+#: inc/itl-widgets/post-grid.php:536 inc/itl-widgets/post-grid.php:622
+msgid "H5"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:85 inc/elementor-widgets/icon-box.php:278
+#: inc/itl-widgets/portfolio.php:405 inc/itl-widgets/portfolio.php:545
+#: inc/itl-widgets/portfolio.php:631 inc/itl-widgets/post-grid.php:397
+#: inc/itl-widgets/post-grid.php:537 inc/itl-widgets/post-grid.php:623
+msgid "H6"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:86 inc/elementor-widgets/icon-box.php:279
+#: inc/itl-widgets/portfolio.php:406 inc/itl-widgets/portfolio.php:546
+#: inc/itl-widgets/portfolio.php:632 inc/itl-widgets/post-grid.php:398
+#: inc/itl-widgets/post-grid.php:538 inc/itl-widgets/post-grid.php:624
+msgid "div"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:87 inc/elementor-widgets/icon-box.php:280
+msgid "span"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:88 inc/elementor-widgets/icon-box.php:281
+msgid "p"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:113 inc/elementor-widgets/icon-box.php:506
+msgid "Justified"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:146 inc/itl-widgets/contact-form-7.php:530
+#: inc/itl-widgets/contact-form-7.php:582 inc/itl-widgets/pie-chart.php:124
+msgid "Text Color"
+msgstr ""
+
+#: inc/elementor-widgets/heading.php:158
+msgid "Heading Second Color"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:15
+msgid "ITL - Icon Box"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:30
+msgid "Icon Box"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:41
+msgid "Stacked"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:42
+msgid "Framed"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:52
+msgid "Icon Type"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:55
+msgid "FontAwesome"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:56 inc/elementor-widgets/icon-box.php:65
+msgid "Line Icon"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:68
+msgid "Mobile"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:69
+msgid "Laptop"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:70 inc/itl-widgets/portfolio.php:298
+#: inc/itl-widgets/post-grid.php:291
+msgid "Desktop"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:71 inc/itl-widgets/portfolio.php:320
+#: inc/itl-widgets/post-grid.php:313
+msgid "Tablet"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:72
+msgid "Phone"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:73
+msgid "Document"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:74
+msgid "Documents"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:75
+msgid "Search"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:76
+msgid "Clipboard"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:77
+msgid "Newspaper"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:78
+msgid "Notebook"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:79
+msgid "Book Open"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:80
+msgid "Browser"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:81
+msgid "Calendar"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:82
+msgid "Presentation"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:83
+msgid "Picture"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:84
+msgid "Pictures"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:85
+msgid "Video"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:86
+msgid "Camera"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:87
+msgid "Printer"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:88
+msgid "Toolbox"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:89
+msgid "Briefcase"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:90
+msgid "Wallet"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:91
+msgid "Gift"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:92
+msgid "Bargraph"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:93
+msgid "Grid"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:94
+msgid "Expand"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:95
+msgid "Focus"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:96
+msgid "Edit"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:97
+msgid "Adjustements"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:98
+msgid "Ribbon"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:99
+msgid "Hourglass"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:100
+msgid "Lock"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:101
+msgid "Megaphone"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:102
+msgid "Shield"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:103
+msgid "Trophy"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:104
+msgid "Flag"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:105
+msgid "Map"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:106
+msgid "Puzzle"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:107
+msgid "Basket"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:108
+msgid "Envelope"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:109
+msgid "Street Sign"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:110
+msgid "Telescope"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:111
+msgid "Gears"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:112
+msgid "Key"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:113
+msgid "Paper Clip"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:114
+msgid "Attachment"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:115
+msgid "Pricetags"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:116
+msgid "Light Bulb"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:117
+msgid "Layers"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:118
+msgid "Pencil"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:119
+msgid "Tools"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:120
+msgid "Tools 2"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:121
+msgid "Scissors"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:122
+msgid "Paintbrush"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:123
+msgid "Magnifying Glass"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:124
+msgid "Circle Compass"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:125
+msgid "Linegraph"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:126
+msgid "Mic"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:127
+msgid "Strategy"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:128
+msgid "Beaker"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:129
+msgid "Caution"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:130
+msgid "Recycle"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:131
+msgid "Anchor"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:132
+msgid "Profile Male"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:133
+msgid "Profile Female"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:134
+msgid "Bike"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:135
+msgid "Wine"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:136
+msgid "Baloon"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:137
+msgid "Globe"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:138
+msgid "Genius"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:139
+msgid "Map Pin"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:140
+msgid "Dial"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:141
+msgid "Chat"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:142
+msgid "Heart"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:143
+msgid "Cloud"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:144
+msgid "Upload"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:145
+msgid "Download"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:146
+msgid "Target"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:147
+msgid "Hazardous"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:148
+msgid "Piechart"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:149
+msgid "Speedometer"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:150
+msgid "Global"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:151
+msgid "Compass"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:152
+msgid "Life Saver"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:153
+msgid "Clock"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:154
+msgid "Aperture"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:155
+msgid "Quote"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:156
+msgid "Scope"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:157
+msgid "Alarm Clock"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:158
+msgid "Refresh"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:159
+msgid "Happy"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:160
+msgid "Sad"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:161
+msgid "Facebook"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:162
+msgid "Twitter"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:163
+msgid "Google Plus"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:164
+msgid "Rss"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:165
+msgid "Tumblr"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:166
+msgid "Linked In"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:167
+msgid "Dribbble"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:179 inc/itl-widgets/pricing-table.php:133
+#: inc/itl-widgets/team.php:86
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:191
+msgid "Shape"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:194
+msgid "Circle"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:195 inc/itl-widgets/pie-chart.php:100
+msgid "Square"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:208
+msgid "Title & Description"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:210
+msgid "This is the heading"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:211
+msgid "Your Title"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:221
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, "
+"pulvinar dapibus leo."
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:222
+msgid "Your Description"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:223
+msgid "Input icon text here"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:235
+msgid "Link to"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:237
+msgid "http://your-link.com"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:245
+msgid "Icon Position"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:254
+#: inc/elementor-widgets/icon-box.php:522
+msgid "Top"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:270 inc/itl-widgets/portfolio.php:537
+#: inc/itl-widgets/post-grid.php:529
+msgid "Title HTML Tag"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:292
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:300
+#: inc/elementor-widgets/icon-box.php:442
+msgid "Primary Color"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:313
+#: inc/elementor-widgets/icon-box.php:455
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:329
+#: inc/elementor-widgets/icon-box.php:543 inc/itl-widgets/testimonial.php:201
+msgid "Spacing"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:368
+#: inc/itl-widgets/contact-form-7.php:513
+msgid "Padding"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:388
+msgid "Rotate"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:403
+msgid "Border Width"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:417
+#: inc/itl-widgets/contact-form-7.php:174
+#: inc/itl-widgets/contact-form-7.php:285
+#: inc/itl-widgets/contact-form-7.php:561 inc/itl-widgets/testimonial.php:223
+msgid "Border Radius"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:434
+msgid "Icon Hover"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:471 inc/itl-widgets/pie-chart.php:107
+msgid "Animation"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:482 inc/itl-widgets/testimonial.php:73
+#: inc/itl-widgets/testimonial.php:236
+msgid "Content"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:519
+msgid "Vertical Alignment"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:523
+msgid "Middle"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:524
+msgid "Bottom"
+msgstr ""
+
+#: inc/elementor-widgets/icon-box.php:588
+msgid "Description"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:15
+msgid "ITL - Clients"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:30
+msgid "Client Settings"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:37
+msgid "Client Items"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:41 inc/itl-widgets/team.php:77
+#: inc/itl-widgets/testimonial.php:41 inc/itl-widgets/testimonial.php:52
+msgid "Asif Islam"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:44 inc/itl-widgets/team.php:80
+#: inc/itl-widgets/testimonial.php:44
+msgid "Iffat Tasnim"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:50
+msgid "Company Name"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:52
+msgid "Company"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:57
+msgid "Company Logo"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:82 inc/itl-widgets/testimonial.php:87
+msgid "Carousel Options"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:89 inc/itl-widgets/testimonial.php:93
+msgid "Items"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:100 inc/itl-widgets/testimonial.php:104
+msgid "Autoplay"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:103 inc/itl-widgets/clients.php:114
+#: inc/itl-widgets/clients.php:125 inc/itl-widgets/clients.php:136
+#: inc/itl-widgets/portfolio.php:169 inc/itl-widgets/portfolio.php:197
+#: inc/itl-widgets/portfolio.php:238 inc/itl-widgets/portfolio.php:266
+#: inc/itl-widgets/portfolio.php:279 inc/itl-widgets/post-grid.php:157
+#: inc/itl-widgets/post-grid.php:190 inc/itl-widgets/post-grid.php:201
+#: inc/itl-widgets/post-grid.php:212 inc/itl-widgets/post-grid.php:224
+#: inc/itl-widgets/testimonial.php:107 inc/itl-widgets/testimonial.php:118
+#: inc/itl-widgets/testimonial.php:129 inc/itl-widgets/testimonial.php:140
+msgid "Yes"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:104 inc/itl-widgets/clients.php:115
+#: inc/itl-widgets/clients.php:126 inc/itl-widgets/clients.php:137
+#: inc/itl-widgets/portfolio.php:170 inc/itl-widgets/portfolio.php:198
+#: inc/itl-widgets/portfolio.php:239 inc/itl-widgets/portfolio.php:267
+#: inc/itl-widgets/portfolio.php:280 inc/itl-widgets/post-grid.php:158
+#: inc/itl-widgets/post-grid.php:191 inc/itl-widgets/post-grid.php:202
+#: inc/itl-widgets/post-grid.php:213 inc/itl-widgets/post-grid.php:225
+#: inc/itl-widgets/testimonial.php:108 inc/itl-widgets/testimonial.php:119
+#: inc/itl-widgets/testimonial.php:130 inc/itl-widgets/testimonial.php:141
+msgid "No"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:111 inc/itl-widgets/testimonial.php:115
+msgid "Loop"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:122 inc/itl-widgets/testimonial.php:126
+msgid "Nav"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:133 inc/itl-widgets/testimonial.php:137
+msgid "Show Dots"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:144 inc/itl-widgets/testimonial.php:148
+msgid "Speed"
+msgstr ""
+
+#: inc/itl-widgets/clients.php:155 inc/itl-widgets/testimonial.php:159
+msgid "Timeout"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:17
+msgid "ITL Contact Form 7"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:34
+msgid "Contact Form"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:42
+msgid "Select your contact form 7"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:56
+msgid "Form Container Styles"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:64
+msgid "Form Background Color"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:75
+msgid "Form Alignment"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:104
+msgid "Form Width"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:126
+msgid "Form Max Width"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:149
+msgid "Form Margin"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:161
+msgid "Form Padding"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:208
+msgid "Form Fields Styles"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:216
+msgid "Input Field Background"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:228
+msgid "Input Width"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:250
+msgid "Textarea Width"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:272
+msgid "Fields Padding"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:317
+msgid "Focus State Style"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:334
+#: inc/itl-widgets/contact-form-7.php:604
+msgid "Border Color"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:349
+msgid "Color & Typography"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:358
+msgid "Label Color"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:369
+msgid "Field Font Color"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:380
+msgid "Placeholder Font Color"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:395
+msgid "Label Typography"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:413
+msgid "Input Fields Typography"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:432
+msgid "Submit Button Styles"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:440
+msgid "Button Width"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:462
+msgid "Button Alignment"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:500
+msgid "Margin"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:525
+msgid "Normal"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:542
+#: inc/itl-widgets/contact-form-7.php:593
+msgid "Background Color"
+msgstr ""
+
+#: inc/itl-widgets/contact-form-7.php:577
+msgid "Hover"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:15
+msgid "ITL - Pie Chart"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:30
+msgid "Pie Chart Settings"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:36
+msgid "Percentage"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:47
+msgid "Bar Color"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:55
+msgid "Track Color"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:63
+msgid "Line Width"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:95
+msgid "Line Cap"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:99
+msgid "Round"
+msgstr ""
+
+#: inc/itl-widgets/pie-chart.php:137
+msgid "Style Section Title"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:16
+msgid "ITL - Portfolio"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:41 inc/itl-widgets/post-grid.php:41
+msgid "Post Query"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:49 inc/itl-widgets/post-grid.php:49
+msgid "Post Types"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:60 inc/itl-widgets/post-grid.php:60
+msgid "Taxonomies"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:71 inc/itl-widgets/post-grid.php:71
+msgid "Post In"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:72 inc/itl-widgets/post-grid.php:72
+msgid "Provide a comma separated list of Post IDs to display in the grid."
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:81 inc/itl-widgets/post-grid.php:81
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:90 inc/itl-widgets/post-grid.php:91
+msgid "Advanced"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:98 inc/itl-widgets/post-grid.php:99
+msgid "Order By"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:101 inc/itl-widgets/post-grid.php:102
+msgid "No order"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:102 inc/itl-widgets/post-grid.php:103
+msgid "Post ID"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:103 inc/itl-widgets/post-grid.php:104
+msgid "Author"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:105 inc/itl-widgets/post-grid.php:106
+msgid "Published date"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:106 inc/itl-widgets/post-grid.php:107
+msgid "Modified date"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:107 inc/itl-widgets/post-grid.php:108
+msgid "By parent"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:108 inc/itl-widgets/post-grid.php:109
+msgid "Random order"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:109 inc/itl-widgets/post-grid.php:110
+msgid "Comment count"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:110 inc/itl-widgets/post-grid.php:111
+msgid "Menu order"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:111 inc/itl-widgets/post-grid.php:112
+msgid "By include order"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:120 inc/itl-widgets/post-grid.php:121
+msgid "Order"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:123 inc/itl-widgets/post-grid.php:124
+msgid "Ascending"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:124 inc/itl-widgets/post-grid.php:125
+msgid "Descending"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:135 inc/itl-widgets/post-grid.php:136
+msgid "Post Content"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:142 inc/itl-widgets/post-grid.php:270
+msgid "Columns per row"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:155
+msgid "Choose a layout for the grid"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:157
+msgid "Fit Rows"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:158
+msgid "Masonry"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:167
+msgid "Display posts content"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:179 inc/itl-widgets/team.php:116
+msgid "Content Position"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:183 inc/itl-widgets/team.php:120
+msgid "Outside"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:184 inc/itl-widgets/team.php:121
+msgid "Inside"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:195
+msgid "Display post excerpt/summary below the post item?"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:209 inc/itl-widgets/post-grid.php:182
+msgid "Post Meta"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:215
+msgid "Filter Spacing"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:236
+msgid "Filterable?"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:249 inc/itl-widgets/post-grid.php:235
+msgid "Choose the taxonomy to display and filter on."
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:251 inc/itl-widgets/post-grid.php:237
+msgid ""
+"Choose the taxonomy information to display for posts/portfolio and the "
+"taxonomy that is used to filter the portfolio/post. Takes effect only if no "
+"taxonomy filters are specified when building query."
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:264
+msgid "Display post date info below the post item?"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:277
+msgid ""
+"Display taxonomy info below the post item? Choose the right taxonomy in Post "
+"Content section above."
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:291
+msgid "Gutter Options"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:306 inc/itl-widgets/portfolio.php:328
+#: inc/itl-widgets/portfolio.php:361 inc/itl-widgets/post-grid.php:299
+#: inc/itl-widgets/post-grid.php:321 inc/itl-widgets/post-grid.php:353
+msgid "Gutter"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:307 inc/itl-widgets/post-grid.php:300
+msgid "Space between columns in the grid."
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:329 inc/itl-widgets/portfolio.php:362
+#: inc/itl-widgets/post-grid.php:322 inc/itl-widgets/post-grid.php:354
+msgid "Space between columns."
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:342 inc/itl-widgets/portfolio.php:375
+#: inc/itl-widgets/post-grid.php:335 inc/itl-widgets/post-grid.php:367
+msgid "Tablet Resolution"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:343 inc/itl-widgets/portfolio.php:376
+#: inc/itl-widgets/post-grid.php:336 inc/itl-widgets/post-grid.php:368
+msgid "The resolution to treat as a tablet resolution."
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:353 inc/itl-widgets/post-grid.php:345
+msgid "Mobile Phone"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:388 inc/itl-widgets/post-grid.php:380
+msgid "Grid Heading"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:397 inc/itl-widgets/post-grid.php:389
+msgid "Heading HTML Tag"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:415 inc/itl-widgets/post-grid.php:407
+msgid "Heading Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:436 inc/itl-widgets/post-grid.php:428
+msgid "Grid Filters"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:444 inc/itl-widgets/post-grid.php:436
+msgid "Filter Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:455 inc/itl-widgets/post-grid.php:447
+msgid "Filter Hover Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:466 inc/itl-widgets/post-grid.php:458
+msgid "Active Filter Border Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:487 inc/itl-widgets/post-grid.php:479
+msgid "Grid Thumbnail"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:496 inc/itl-widgets/post-grid.php:488
+msgid "Thumbnail Hover Background Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:507 inc/itl-widgets/post-grid.php:499
+msgid "Thumbnail Hover Opacity (%)"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:528 inc/itl-widgets/post-grid.php:520
+msgid "Thumbnail Info Entry Title"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:555 inc/itl-widgets/post-grid.php:547
+msgid "Title Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:566 inc/itl-widgets/post-grid.php:558
+msgid "Title Hover Border Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:585 inc/itl-widgets/post-grid.php:577
+msgid "Thumbnail Info Taxonomy Terms"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:594 inc/itl-widgets/post-grid.php:586
+msgid "Taxonomy Terms Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:615 inc/itl-widgets/post-grid.php:607
+msgid "Grid Item Entry Title"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:623 inc/itl-widgets/post-grid.php:615
+msgid "Entry Title HTML Tag"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:641 inc/itl-widgets/post-grid.php:633
+msgid "Entry Title Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:662 inc/itl-widgets/post-grid.php:654
+msgid "Grid Item Entry Summary"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:670 inc/itl-widgets/post-grid.php:662
+msgid "Entry Summary Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:691 inc/itl-widgets/post-grid.php:683
+msgid "Grid Item Entry Meta"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:699 inc/itl-widgets/post-grid.php:691
+msgid "Entry Meta"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:708 inc/itl-widgets/post-grid.php:700
+msgid "Entry Meta Color"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:728 inc/itl-widgets/post-grid.php:720
+msgid "Entry Meta Link"
+msgstr ""
+
+#: inc/itl-widgets/portfolio.php:737 inc/itl-widgets/post-grid.php:729
+msgid "Entry Meta Link Color"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:16
+msgid "ITL - Post Grid"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:82
+msgid "Select how many posts you want to display"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:155
+msgid "Display post excerpt/summary"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:167
+msgid "Word count"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:168
+msgid "Select how many words you want to display in excerpt"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:188
+msgid "Display post date"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:199
+msgid "Display post author"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:210
+msgid "Display comments count"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:221
+msgid "Display taxonomy"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:223
+msgid "Choose the right taxonomy in Post Content section above"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:251
+msgid "Column Settings"
+msgstr ""
+
+#: inc/itl-widgets/post-grid.php:284
+msgid "Column Gutter"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:15
+msgid "ITL - Pricing Table"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:30
+msgid "Pricing Header"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:37
+msgid "Pricing Title"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:39
+msgid "Standard"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:40
+msgid "Basic, Standard, Premium"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:46
+msgid "Pricing Subtitle"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:48 inc/itl-widgets/pricing-table.php:49
+msgid "Subtitle text goes here"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:56
+msgid "Currency Symbol"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:58 inc/itl-widgets/pricing-table.php:59
+msgid "$"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:66
+msgid "Price"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:68 inc/itl-widgets/pricing-table.php:69
+msgid "79"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:76
+msgid "Floating Number"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:78 inc/itl-widgets/pricing-table.php:79
+msgid ".49"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:86
+msgid "Price Period"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:87
+msgid "Mo = Per Month & Yr = Per Year"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:90
+msgid "Mo"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:91
+msgid "Yr"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:103
+msgid "Pricing List items"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:110
+msgid "Pricing List Items"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:114 inc/itl-widgets/pricing-table.php:128
+msgid "1 GB Disk Space"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:117
+msgid "20 GB Bandwidth"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:120
+msgid "Customer Support"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:126
+msgid "Item Title"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:146
+msgid "Button"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:153
+msgid "Button Text"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:155 inc/itl-widgets/pricing-table.php:156
+msgid "Sign Up"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:213
+msgid "year"
+msgstr ""
+
+#: inc/itl-widgets/pricing-table.php:227
+msgid "per "
+msgstr ""
+
+#: inc/itl-widgets/team.php:15
+msgid "ITL - Team"
+msgstr ""
+
+#: inc/itl-widgets/team.php:30
+msgid "Team Info"
+msgstr ""
+
+#: inc/itl-widgets/team.php:36
+msgid "Name"
+msgstr ""
+
+#: inc/itl-widgets/team.php:38
+msgid "John Doe"
+msgstr ""
+
+#: inc/itl-widgets/team.php:39
+msgid "Type your name here"
+msgstr ""
+
+#: inc/itl-widgets/team.php:45
+msgid "Position"
+msgstr ""
+
+#: inc/itl-widgets/team.php:47
+msgid "Developer"
+msgstr ""
+
+#: inc/itl-widgets/team.php:48
+msgid "Type your position here"
+msgstr ""
+
+#: inc/itl-widgets/team.php:54
+msgid "Insert Image"
+msgstr ""
+
+#: inc/itl-widgets/team.php:66
+msgid "Social Links"
+msgstr ""
+
+#: inc/itl-widgets/team.php:73
+msgid "Add social profile"
+msgstr ""
+
+#: inc/itl-widgets/team.php:91
+msgid "Insert Link"
+msgstr ""
+
+#: inc/itl-widgets/team.php:109
+msgid "Team Styles"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:15
+msgid "ITL - Testimonial"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:30
+msgid "Testimonial Settings"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:37
+msgid "Testimonial Items"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:50
+msgid "Person Name"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:57
+msgid "Person Image"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:66
+msgid "Company Name or Position"
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/itl-widgets/testimonial.php:68
+msgid "iThemesLab"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:75
+msgid "Testimonial Content"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:171
+msgid "Image Styles"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:268
+msgid "Person Name Color"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:279
+msgid "Position Name Color"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:290
+msgid "Content Color"
+msgstr ""
+
+#: inc/itl-widgets/testimonial.php:301
+msgid "Content Spacing"
+msgstr ""
+
+#: inc/metabox/banner-metabox.php:11
+msgid "Banner"
+msgstr ""
+
+#: inc/metabox/banner-metabox.php:19
+msgid "Banner Image"
+msgstr ""
+
+#: inc/metabox/banner-metabox.php:20
+msgid "This will override the default banner"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:11
+msgid "Project Meta info"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:18
+msgid "Project In Progress"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:19
+msgid "Check the field if the project is work in progress"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:23
+msgid "Work in progress"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:24
+msgid "Completed project"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:29
+msgid "Client Name"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:30
+msgid "Enter client name here"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:35
+msgid "Location"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:36
+msgid "Enter location name here"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:41
+msgid "Project start date"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:42
+msgid "Click to enter start date"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:47
+msgid "Project completion date"
+msgstr ""
+
+#: inc/metabox/project-metabox.php:48
+msgid "Click to enter completion date"
+msgstr ""
+
+#: itl-helper/helper-functions.php:91
+msgid "M d, Y"
+msgstr ""
+
+#: itl-helper/helper-functions.php:92 itl-helper/helper-functions.php:94
+msgid "l, F, Y, g:i a"
+msgstr ""
+
+#: itl-helper/helper-functions.php:94
+msgid "Y"
+msgstr ""
+
+#: itl-helper/helper-functions.php:94
+msgid "m"
+msgstr ""
+
+#: itl-helper/helper-functions.php:94
+msgid "d"
+msgstr ""
+
+#: itl-helper/helper-functions.php:99
+msgid "By "
+msgstr ""
+
+#: itl-helper/helper-functions.php:337
+msgid "All"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Hanson Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ithemeslab.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin enables the core features to this theme. You must have to "
+"install this plugin to work with the theme."
+msgstr ""
